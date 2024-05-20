@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'bundler', '~> 2.5.10'
 # use local theme gem for testing
 gem "jekyll-theme-so-simple"
 
