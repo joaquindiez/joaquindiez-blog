@@ -1,0 +1,15 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Joaquin Diez:
+  name: Joaquin Diez
+  picture: /images/bio-photo-2.jpg
+  twitter: "@joaquindiez"
+  links:
+    - title: Twitter
+      url: https://x.com/joaquindiez
+      icon: fab fa-twitter-square
+#Cornelius Fiddlebone:
+#  name: Cornelius Fiddlebone
+#  picture: /images/bio-photo.jpg
+#  twitter: corneliusfiddlebone
