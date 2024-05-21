@@ -1,6 +1,8 @@
 ---
 title: "Nuevo Blog, Nueva Etapa"
-thumbnail: /images/juliane-liebermann-O-RKu3Aqnsw-unsplash-400x200.jpg
+image:
+  path: /images/juliane-liebermann-O-RKu3Aqnsw-unsplash.jpg
+  thumbnail: /images/juliane-liebermann-O-RKu3Aqnsw-unsplash-400x200.jpg
 categories:
   - Blog
   - Ideas
