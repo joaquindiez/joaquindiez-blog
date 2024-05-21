@@ -2,7 +2,8 @@
 title: "Nuevo Blog, Nueva Etapa"
 thumbnail: /images/juliane-liebermann-O-RKu3Aqnsw-unsplash-400x200.jpg
 categories:
-  - Blog Ideas
+  - Blog
+  - Ideas
 ---
 
 Despues de mucha búsqueda de plataformas para escribir, de usar Medium, Wordpress, Substack, he decido volver a la esencia
