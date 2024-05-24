@@ -15,7 +15,7 @@ El código de la aplicación Micronaut versión 4.4.1, con los ficheros de confi
 
 Cualquier duda sobre como instalar Kamal, podéis referiros al primer articulo de las serie:
 
-- [Como desplegar tu aplicación Micronaut con SSL en cualquier VPN usando Kamal](https://blog.joaquindiez.com/tecnologia/2024/05/24/desplegar-aplicacion-micronaut-kamal-ssl.html)
+- [Como desplegar tu aplicación Micronaut con SSL en cualquier VPN usando Kamal](https://blog.joaquindiez.com/tecnologia/2024/05/22/desplegar-aplicacion-micronaut-kamal-ssl.html)
 
 Si quieres jugar simplemente con la aplicación del repositorio, este ya viene con el código completo para que puedas probar el despliegue de la aplicación por lo que puedes saltar a la sección de **Ficheros Kamal.**
 
