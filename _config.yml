@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: es-ES
 title: "Joaquin Diez"
-description: " Cofundador de <a href='https://www.onness.io'>onness.io</a>, Ex  <a href='https://www.devo.com'>Devo.com</a>, ex  <a href='https://www.clarity.ai'>clarity.ai</a>. ex  <a href='https://www.finect.com'>finect.com</a><br/>Puedes encontrar cosa de tecnología, reflexiones, inversión y planificación financiera "
+description: " Cofundador de <a href='https://www.onness.io'>onness.io</a>, Ex  <a href='https://www.devo.com'>Devo.com</a>, ex  <a href='https://www.clarity.ai'>clarity.ai</a>. ex  <a href='https://www.finect.com'>finect.com</a><br/>Podras leer aqui sobre tecnología, reflexiones, inversión y planificación financiera "
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://blog.joaquindiez.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/joaquin-diez-photo.png" # path of site logo, e.g. "/assets/images/logo.png"
