@@ -1,3 +1,10 @@
+---
+title: "Cómo escapar de Amazon AWS y ahorrar un 80% en costes"
+categories:
+  - tecnologia
+---
+
+
 Aún tengo en la memoria aquella tarde de otoño en el **Berlín** de 2007, en el edificio de convenciones donde se celebraba la conferencia **Web 2.0**. Mike Culver (que en paz descanse) era un ingeniero de Amazon sentado en una silla de colegio, con un pequeño cartel que ponía Amazon (y no sé si algo de AWS) y que estaba enseñando a quien quisiera verlo cómo arrancar instancias de EC2 desde una terminal de un portátil. Esas instancias apenas tenían almacenamiento efímero y disponían de pocos tipos de instancia que podías levantar. Era el segundo servicio que ofrecían tras **S3**. Pero fue suficiente para que apostáramos todo como fundadores de Unience (ahora Finect) a que esa fuera la base de nuestra plataforma tecnológica para poner en producción nuestro producto. Habíamos entrado de lleno en el Cloud.
 
 Y desde ese momento, me enamoré de los servicios de **Amazon AWS**. Cada cosa que sacaban estaba más y más alineada a nuestras necesidades: las bases de datos (RDS), las colas (SQS), el envío de email (SES), el DNS (Route 53), balanceadores (ELB), servicios sencillos, claros de utilizar y que a los desarrolladores y fundadores de startups nos daban la oportunidad de crear rápido y barato para validar nuestras ideas. Nos habían dado algo muy bueno.
