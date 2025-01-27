@@ -1,0 +1,3 @@
+Run Blog with jekyll
+
+    bundle exec jekyll serve
